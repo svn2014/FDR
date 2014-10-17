@@ -1,4 +1,0 @@
-FDR
-===
-
-Fare Dealing Report
